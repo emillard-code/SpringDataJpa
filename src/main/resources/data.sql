@@ -1,1 +1,1 @@
-insert into programmer values (101,'Aaron', 'Java');
+insert into programmer values (101,'Java', 'Aaron');
