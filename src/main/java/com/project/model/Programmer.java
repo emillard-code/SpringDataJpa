@@ -21,11 +21,11 @@ public class Programmer {
 
     @Override
     public String toString() {
-        return "Programmer{" +
+        return "Programmer [" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", language='" + language + '\'' +
-                '}';
+                ']';
     }
 
 }
